@@ -19,6 +19,10 @@ bolt:
         name: Boltsplus
         url: 'https://boltsplus.ca/productInfo.php?prodID=4103-0001'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/893:m3x6-din7991-a4'
+        verified: false
   - partname: m3x8
     image: urltoimage
     identifier: m3x8_912
@@ -39,6 +43,10 @@ bolt:
         name: Boltsplus
         url: 'https://boltsplus.ca/productInfo.php?prodID=4101-0037'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/1914:m3x8-din912-a4'
+        verified: false
   - partname: m3x10
     image: urltoimage
     identifier: m3x10_912
@@ -59,6 +67,10 @@ bolt:
         name: Boltsplus
         url: 'https://boltsplus.ca/productInfo.php?prodID=4101-0040'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/516:m3x10-din912-a4'
+        verified: false
   - partname: m3x12
     image: urltoimage
     identifier: m3x12_912
@@ -79,6 +91,10 @@ bolt:
         name: Boltsplus
         url: 'https://boltsplus.ca/productInfo.php?prodID=4101-0043'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/1915:m3x12-din912-a4'
+        verified: false
   - partname: m3x16
     image: urltoimage
     identifier: m3x16_912
@@ -95,6 +111,10 @@ bolt:
         name: Boltdepot
         url: 'https://www.boltdepot.com/Product-Details.aspx?product=6382'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/885:m3x16-din7991-a4'
+        verified: false
   - partname: m3x20
     image: urltoimage
     identifier: m3x20_912
@@ -111,6 +131,10 @@ bolt:
         name: Boltdepot
         url: 'https://www.boltdepot.com/Product-Details.aspx?product=6383'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/518:m3x20-din912-a4'
+        verified: false
   - partname: m3x25
     image: urltoimage
     identifier: m3x25_912
@@ -127,6 +151,10 @@ bolt:
         name: Boltdepot
         url: 'https://www.boltdepot.com/Product-Details.aspx?product=6384'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/1919:m3x25-din912-a4'
+        verified: false
   - partname: m3x30
     image: urltoimage
     identifier: m3x30_912
@@ -143,6 +171,10 @@ bolt:
         name: Boltdepot
         url: 'https://www.boltdepot.com/Product-Details.aspx?product=6385'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/519:m3x30-din912-a4'
+        verified: false
   - partname: m3x35
     image: urltoimage
     identifier: m3x35_912
@@ -159,6 +191,10 @@ bolt:
         name: Boltdepot
         url: 'https://www.boltdepot.com/Product-Details.aspx?product=6386'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/522:m4x20-din912-a4'
+        verified: false
   - partname: m4x20
     image: urltoimage
     identifier: m4x20_912
@@ -175,6 +211,10 @@ bolt:
         name: Boltdepot
         url: 'https://www.boltdepot.com/Product-Details.aspx?product=6398'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/1920:m3x35-din912-a4'
+        verified: false
   - partname: m4x16
     image: urltoimage
     identifier: m4x16_912
@@ -195,6 +235,10 @@ bolt:
         name: Boltsplus
         url: 'https://boltsplus.ca/productInfo.php?prodID=4101-0088'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/521:m4x16-din912-a4'
+        verified: false
   - partname: m5x8
     image: urltoimage
     identifier: m5x8_7380
@@ -215,6 +259,10 @@ bolt:
         name: Boltsplus
         url: 'https://boltsplus.ca/productInfo.php?prodID=4104-0049'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/1066:m5x8-iso7380-1-a4'
+        verified: false
   - partname: m5x8
     image: urltoimage
     identifier: m5x8_912_SHCS
@@ -231,6 +279,10 @@ bolt:
         name: Boltdepot
         url: 'https://www.boltdepot.com/Product-Details.aspx?product=6406'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/1953:m5x8-din912-a4'
+        verified: false
   - partname: m5x10
     image: urltoimage
     identifier: m5x10_912
@@ -251,6 +303,10 @@ bolt:
         name: Boltsplus
         url: 'https://boltsplus.ca/productInfo.php?prodID=4101-0127'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/1955:m5x10-din912-a4'
+        verified: false
   - partname: m5x12
     image: urltoimage
     identifier: m5x12_912
@@ -267,6 +323,10 @@ bolt:
         name: Boltdepot
         url: 'https://www.boltdepot.com/Product-Details.aspx?product=6408'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'TODOOO:m5x12-din912-a4'
+        verified: false
   - partname: m5x20
     image: urltoimage
     identifier: m5x20_912
@@ -283,6 +343,10 @@ bolt:
         name: Boltdepot
         url: 'https://www.boltdepot.com/Product-Details.aspx?product=6410'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/527:m5x12-din912-a4'
+        verified: false
   - partname: m5x50
     image: urltoimage
     identifier: m5x50_912
@@ -299,6 +363,10 @@ bolt:
         name: Boltdepot
         url: 'https://www.boltdepot.com/Product-Details.aspx?product=6453'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/534:m5x50-din912-a4'
+        verified: false
 nuts:
   - partname: M3 T-nut
     image: urltoimage
@@ -371,6 +439,10 @@ nuts:
         name: Boltdepot
         url: 'https://www.boltdepot.com/Product-Details.aspx?product=4773'
         verified: false
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/1:m3-din934-a4'
+        verified: false
 extrusions:
   - partname: '2020'
     image: urltoimage
@@ -417,6 +489,10 @@ rails:
         url: >-
           https://www.fabreeko.com/products/honeybadger-mgn9c-stainless-steel-rails?_pos=1&_sid=dce3b231d&_ss=r
         verified: true
+      - region: EU
+        name: 3DO
+        url: 'https://3do.dk/en/linear-rails/1049-1813-honeybadger-stainless-mgn9c-rail.html#/55-length-100mm'
+        verified: false
   - partname: MGN12C/H 400mm
     image: urltoimage
     identifier: MGN12_400mm
@@ -440,6 +516,10 @@ rails:
         name: Sparta3D
         url: >-
           https://sparta3d.ca/products/ldo-mgn12h-linear-rail-carriage?variant=37783504519322
+        verified: false
+      - region: EU
+        name: 3DO
+        url: 'https://3do.dk/en/linear-rails/1047-1458-honeybadger-stainless-mgn12h-rail.html#/98-length-400mm'
         verified: false
   - partname: MGN12C/H 500mm
     image: urltoimage
@@ -638,6 +718,10 @@ other:
         name: Boltsplus
         url: 'https://www.boltdepot.com/Product-Details.aspx?product=4513'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/563:m3-din125-a4'
+        verified: false
   - partname: M5 Washer/Shim
     image: urltoimage
     identifier: plain_m5_washer
@@ -652,6 +736,10 @@ other:
         name: Boltsplus
         url: 'https://www.boltdepot.com/Product-Details.aspx?product=4515'
         verified: true
+      - region: EU
+        name: Dutyhook
+        url: 'https://www.dutyhook.eu/en/1114:m5-din125-a2'
+        verified: false
   - partname: Spacer
     image: urltoimage
     identifier: 8mm_spacers
@@ -837,6 +925,10 @@ hydra_kits:
         name: 'Fysetc<br/>(Heater, 377x370x8mm bed, surface, magnet)'
         url: 'https://s.click.aliexpress.com/e/_Deflc7X'
         verified: true
+      - region: EU
+        name: 3DO
+        url: 'https://3do.dk/en/frame-kits/2526-zero-g-hydra-3-point-conversion-kit-for-ender-5-pro-plus.html'
+        verified: false
 electronics:
   - partname: Stepper motor
     image: urltoimage
@@ -856,7 +948,7 @@ electronics:
       - region: EU
         name: Ratrig
         url: >-
-          https://www.ratrig.com/hardware2/electronics/nema-17-stepper-motor.html
+          https://ratrig.com/electronics/motors/nema-17-stepper-motor.html
         verified: true
   - partname: Motherboard
     image: urltoimage
